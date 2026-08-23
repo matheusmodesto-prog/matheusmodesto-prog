@@ -2,7 +2,7 @@
 
 ### Inteligência Artificial | Automação de Processos | Agentes de IA
 
-Profissional de tecnologia com experiência em **TI, bancos de dados, SQL, consultoria de sistemas e gestão empresarial**, atualmente direcionando minha atuação para **Inteligência Artificial e Automação**.
+Profissional de tecnologia com experiência em **TI, bancos de dados, SQL, consultoria de sistemas e gestão empresarial**, atualmente focado em **Inteligência Artificial aplicada e Automação de Processos**.
 
 Desenvolvo projetos envolvendo **LLMs, agentes de IA, RAG, automação de processos, integrações entre sistemas e APIs**, com foco em aplicações práticas para problemas reais de negócios.
 
@@ -26,7 +26,7 @@ LLMs • RAG • Agentes de IA • Prompt Engineering • MCP
 n8n • Make • APIs • Webhooks • HTTP Requests
 
 **Dados e Conhecimento**  
-Supabase • PostgreSQL • pgvector • SQL
+Supabase • PostgreSQL • SQL
 
 **Desenvolvimento Assistido por IA**  
 Claude Code • Codex • Lovable • VS Code • GitHub
@@ -72,6 +72,8 @@ Centro Universitário Newton Paiva — Superior Incompleto
 ## 📫 Contato
 
 **E-mail:** [matheusmodestolimabh@gmail.com](mailto:matheusmodestolimabh@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/matheusmodestolima](https://www.linkedin.com/in/matheusmodestolima/)
 
 **GitHub:** [github.com/matheusmodesto-prog](https://github.com/matheusmodesto-prog)
 
