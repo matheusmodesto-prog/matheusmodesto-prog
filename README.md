@@ -20,33 +20,33 @@ Desenvolvo projetos envolvendo **LLMs, agentes de IA, RAG, automação de proces
 ## 🛠️ Tecnologias e Ferramentas
 
 **IA e Agentes**  
-LLMs • RAG • Prompt Engineering • AI Agents • MCP
+LLMs • RAG • Agentes de IA • Prompt Engineering • MCP
 
-**Automação e Integração**  
+**Automação e Integrações**  
 n8n • Make • APIs • Webhooks • HTTP Requests
 
-**Dados**  
-SQL • SQL Server • DB2 • PostgreSQL • Supabase
+**Dados e Conhecimento**  
+Supabase • PostgreSQL • pgvector • SQL
 
-**Desenvolvimento**  
-Git • GitHub • VS Code • Claude Code • Codex
+**Desenvolvimento Assistido por IA**  
+Claude Code • Codex • Lovable • VS Code • GitHub
 
 **Cloud e Serviços**  
 Google Cloud • Google Workspace • APIs de WhatsApp
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 Automação Inteligente de Atendimento com IA
-
-Automação desenvolvida com **n8n e LLMs** para processamento de mensagens, gerenciamento de contexto, qualificação de leads, geração de respostas e encaminhamento para atendimento humano.
-
-[Ver projeto](https://github.com/matheusmodesto-prog/automacao-atendimento-ia-n8n)
-
 ### 🔎 Agente de IA com RAG
 
 Agente de IA com **RAG, embeddings, Supabase e pgvector**, desenvolvido para consultar uma base de conhecimento empresarial e gerar respostas contextualizadas.
 
 [Ver projeto](https://github.com/matheusmodesto-prog/agente-rag-base-conhecimento)
+
+### 🤖 Automação Inteligente de Atendimento com IA
+
+Automação desenvolvida com **n8n e LLMs** para processamento de mensagens, gerenciamento de contexto, qualificação de leads, geração de respostas e encaminhamento para atendimento humano.
+
+[Ver projeto](https://github.com/matheusmodesto-prog/automacao-atendimento-ia-n8n)
 
 ### 📈 Automação de Follow-up com IA
 
