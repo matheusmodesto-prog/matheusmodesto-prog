@@ -1,32 +1,80 @@
 # Olá, eu sou Matheus Modesto 👋
 
-Profissional de tecnologia direcionado à **Inteligência Artificial aplicada, automação de processos, agentes inteligentes e integração de sistemas**.
+### Inteligência Artificial | Automação de Processos | Agentes de IA
 
-Tenho experiência anterior em tecnologia da informação, bancos de dados, consultoria e gestão empresarial. Atualmente, aplico essa base na criação de soluções que aumentam a produtividade, organizam processos e melhoram o relacionamento com clientes.
+Profissional de tecnologia com experiência em **TI, bancos de dados, SQL, consultoria de sistemas e gestão empresarial**, atualmente direcionando minha atuação para **Inteligência Artificial e Automação**.
 
-## Áreas de atuação
+Desenvolvo projetos envolvendo **LLMs, agentes de IA, RAG, automação de processos, integrações entre sistemas e APIs**, com foco em aplicações práticas para problemas reais de negócios.
 
-- Inteligência Artificial e modelos de linguagem (LLMs);
-- agentes de IA, RAG, engenharia de prompts e MCP;
-- automação de processos com n8n e Make;
-- integrações com APIs, webhooks e bancos de dados;
-- atendimento, qualificação de leads e follow-up automatizado.
+## 🧠 Especialidades
 
-## Tecnologias e ferramentas
+- Inteligência Artificial aplicada
+- Agentes e assistentes de IA
+- Automação de processos
+- RAG e bases de conhecimento
+- Integração de APIs e Webhooks
+- Automação de atendimento e processos comerciais
+- Integração e tratamento de dados
+- Desenvolvimento assistido por IA
 
-`n8n` · `Make` · `LLMs` · `OpenRouter` · `RAG` · `Agentes de IA` · `APIs` · `Webhooks` · `Google Sheets` · `Git` · `GitHub`
+## 🛠️ Tecnologias e Ferramentas
 
-## Projetos em destaque
+**IA e Agentes**  
+LLMs • RAG • Prompt Engineering • AI Agents • MCP
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [Automação Inteligente de Atendimento e Qualificação de Leads](https://github.com/matheusmodesto-prog/automacao-atendimento-ia-n8n) | Atendimento conversacional com controle de estado, classificação por IA, validação de respostas e handoff humano. | n8n, LLM, Google Sheets, Webhooks |
-| [Automação Empresarial de Follow-up com IA](https://github.com/matheusmodesto-prog/automacao-follow-up-clientes-ia) | Acompanhamento e reengajamento de clientes com mensagens personalizadas e envio automatizado pelo WhatsApp. | Make, OpenRouter, Google Sheets, Z-API |
+**Automação e Integração**  
+n8n • Make • APIs • Webhooks • HTTP Requests
 
-## Objetivo profissional
+**Dados**  
+SQL • SQL Server • DB2 • PostgreSQL • Supabase
 
-Atuar no desenvolvimento e implementação de soluções de **IA aplicada, automação de processos, agentes inteligentes e integrações**, transformando necessidades empresariais em fluxos eficientes e mensuráveis.
+**Desenvolvimento**  
+Git • GitHub • VS Code • Claude Code • Codex
 
-## Em evolução contínua
+**Cloud e Serviços**  
+Google Cloud • Google Workspace • APIs de WhatsApp
 
-Este perfil reúne projetos práticos de estudo, implementação e personalização. Novas automações, agentes e integrações serão adicionados conforme o desenvolvimento do portfólio.
+## 🚀 Projetos em Destaque
+
+### 🤖 Automação Inteligente de Atendimento com IA
+
+Automação desenvolvida com **n8n e LLMs** para processamento de mensagens, gerenciamento de contexto, qualificação de leads, geração de respostas e encaminhamento para atendimento humano.
+
+[Ver projeto](https://github.com/matheusmodesto-prog/automacao-atendimento-ia-n8n)
+
+### 🔎 Agente de IA com RAG
+
+Agente de IA com **RAG, embeddings, Supabase e pgvector**, desenvolvido para consultar uma base de conhecimento empresarial e gerar respostas contextualizadas.
+
+[Ver projeto](https://github.com/matheusmodesto-prog/agente-rag-base-conhecimento)
+
+### 📈 Automação de Follow-up com IA
+
+Workflow desenvolvido com **Make, LLMs, APIs e integração com dados** para automatizar processos de acompanhamento e relacionamento com clientes.
+
+[Ver projeto](https://github.com/matheusmodesto-prog/automacao-follow-up-clientes-ia)
+
+## 🎯 Foco Profissional
+
+Atuar na área de **Inteligência Artificial e Automação**, contribuindo para o desenvolvimento de soluções que utilizem tecnologia para **automatizar processos, integrar sistemas, aumentar produtividade e resolver problemas reais de negócios**.
+
+## 📚 Formação
+
+**Formação Maestros da IA**  
+Inteligência Artificial, Automação e Agentes de IA
+
+**Claude Code**  
+Desenvolvimento Assistido por IA, Skills e MCP
+
+**Sistemas de Informação**  
+Centro Universitário Newton Paiva — Superior Incompleto
+
+## 📫 Contato
+
+**E-mail:** [matheusmodestolimabh@gmail.com](mailto:matheusmodestolimabh@gmail.com)
+
+**GitHub:** [github.com/matheusmodesto-prog](https://github.com/matheusmodesto-prog)
+
+---
+
+### Construindo soluções práticas com Inteligência Artificial, automação e integração de sistemas.
